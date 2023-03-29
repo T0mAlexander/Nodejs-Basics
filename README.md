@@ -39,7 +39,9 @@ gh repo clone T0mAlexander/Nodejs-Basics
 ```
 <b>Dica:</b> Se não quiser ou não souber usar o terminal, baixe diretamente do Github no formato de pasta comprimida (.zip)
 <details>
-  <summary>Exemplo prático</summary>
+  <summary>Captura de tela</summary>
+  
+  ![Baixando o repositório via .zip](https://raw.githubusercontent.com/T0mAlexander/Nodejs-Basics/media-content/download%20repository.png)
 </details>
 
 2. Acesse a pasta do repositório pelo terminal
@@ -51,6 +53,7 @@ cd Nodejs-Basics
 <details>
   <summary>Gravação de tela</summary>
   
+  ![Acessando a pasta do repositório](https://raw.githubusercontent.com/T0mAlexander/Nodejs-Basics/media-content/node%20repository%20setup.gif)
 </details>
 
 3. Execute o comando `npm install` ou de forma reduzida `npm i` para instalar as dependências
