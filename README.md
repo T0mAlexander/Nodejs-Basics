@@ -56,10 +56,11 @@ cd Nodejs-Basics
   ![Acessando a pasta do repositório](https://raw.githubusercontent.com/T0mAlexander/Nodejs-Basics/media-content/node%20repository%20setup.gif)
 </details>
 
-3. Execute o comando `npm install` ou de forma reduzida `npm i` para instalar as dependências
-4. Execute o comando `npm run knex -- migrate:latest` para atualizar localmente as últimas migrações/alterações da estrutura do banco de dados
-5. Execute o comando `npm run server` para inicializar o servidor que estará sendo hospedado em sua rede local no endereço `http://localhost:3333`
-6. Você verá uma mensagem no console do terminal `Server is running 🚀` confirmando que o servidor está funcional e pronto para uso
+3. Como este repositório está disponível em outra ramificação/branch, execute `git switch project-02` no terminal para acessá-lo
+4. Execute o comando `npm install` ou de forma reduzida `npm i` para instalar as dependências
+5. Execute o comando `npm run knex -- migrate:latest` para atualizar localmente as últimas migrações/alterações da estrutura do banco de dados
+6. Execute o comando `npm run server` para inicializar o servidor que estará sendo hospedado em sua rede local no endereço `http://localhost:3333`
+7. Você verá uma mensagem no console do terminal `Server is running 🚀` confirmando que o servidor está funcional e pronto para uso
 
 ## Como usar a aplicação pela internet
 
