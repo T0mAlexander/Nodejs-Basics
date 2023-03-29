@@ -1,0 +1,15 @@
+# Libraries and dependencies
+node_modules/
+
+# Database
+database/*.db
+
+# Environment keys
+.env
+.env.test
+
+# Bundled Code
+build/
+
+# Miscelaneous
+.vscode/
