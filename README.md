@@ -130,7 +130,7 @@ Este projeto é de livre uso para outros sem nenhuma restrição para cópias ou
 >1. PostgreSQL está sendo usado em modo de produção devido o suporte limitado da plataforma <a href="https://render.com">Render</a>.
 >2. São programas com interfaces gráficas intuitivas para acessar as pastas e arquivos e.g `GNOME Files` (Linux) ou `Windows Explorer` (Windows).
 >3. Em programação, `string` é um tipo de dado que aceita tanto letras junto com numerais (ou apenas um dos tipos) que será lido como um texto.
->4. O tipo de dado `number` aceita exclusivamente só numerais inteiros e também irracionais<br>(numéros "quebrados") desde que esteja delimitado pelo uso do ponto (a maior parte das linguagens utilizam ponto devido ser um padrão adotado no ensino matemático de países anglófonos).
+>4. O tipo de dado `number` aceita exclusivamente só numerais inteiros e também irracionais desde que esteja delimitado pelo uso do ponto (a maior parte das linguagens utilizam ponto devido ser um padrão adotado no ensino matemático de países anglófonos).
 >5. O tipo `boolean` varia entre 2 valores que por padrão é verdadeiro ou falso (`true` ou `false`) mas podem ser customizados. 
 
 ### Autor: Tom Alexander
