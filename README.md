@@ -13,7 +13,7 @@ A API Rest possui as seguintes funcionalidades:
 ## Tecnologias Utilizadas
 
 - Node.js
-- Fastify & Fastify Cookies Plugin
+- Fastify
 - SQLite 
 - PostgreSQL <a href="#observações"><sup>[1]</sup></a>
 - Knex
