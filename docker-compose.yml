@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  nodejs-api-solid-postgresql:
+    image: bitnami/postgresql
+    ports:
+      - 5000:5432
+    environment:
+      - POSTGRESQL_USERNAME=docker
+      - POSTGRESQL_PASSWORD=docker
+      - POSTGRESQL_DATABASE=nodejs-api-solid
