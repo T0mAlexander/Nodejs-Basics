@@ -22,13 +22,14 @@ Esta aplicação possui similaridades com lógicas sistêmicas do Gympass
 - [x] Impedir cadastro de endereços de email duplicados
 - [x] Impedir 2 check-in no mesmo dia
 - [x] Impedir check-in numa distância acima de 100 metros da academia
-- [x] Estipular tempo máximo de 20 minutos para validação do check-in
-- [ ] Check-in apenas será validado por administradores
-- [ ] Academias serão cadastradas apenas por administradores
+- [x] Estipular tempo máximo de 10 minutos para validação do check-in
+- [x] Check-in apenas será validado por administradores
+- [x] Academias serão cadastradas apenas por administradores
 
 ## Requisitos Não-Funcionais
 
 - [x] Senhas devem ser criptografadas por segurança
 - [x] Persistência de dados com PostgreSQL
 - [x] Lista de dados com 20 itens por página
-- [ ] Identificação de usuários com JSON Web Token (JWT)
+
+- [x] Identificação de usuários com JSON Web Token (JWT)
