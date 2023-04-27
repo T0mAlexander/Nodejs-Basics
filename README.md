@@ -1,5 +1,7 @@
 # Node.js API Rest
 
+Olá, visitante. Existe outro projeto mais robusto e detalhado publicado na ramificação `project-03` deste repositório. Acesse-o <a href="https://github.com/T0mAlexander/Nodejs-Basics/tree/project-03">clicando aqui</a>
+
 ## Funcionalidades
 
 A API Rest possui as seguintes funcionalidades:
