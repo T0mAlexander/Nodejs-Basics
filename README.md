@@ -1,4 +1,4 @@
-# Node.js API com SOLID
+# Node.js Gym
 
 > Olá visitante, existem outros 2 projetos nas branches [`project-01`](https://github.com/T0mAlexander/Nodejs-Basics/tree/project-01) e [`project-02`](https://github.com/T0mAlexander/Nodejs-Basics/tree/project-02)
 
