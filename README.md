@@ -57,6 +57,12 @@ A aplicação tem funcionalidades como cadastros, autenticações, consultas no 
 - **tsx**: extensão de arquivo para arquivos TypeScript que contém JSX (JavaScript XML)
 - **tsup**: ferramenta de empacotamento para aplicações TypeScript
 
+## Padrões de desenvolvimento de software
+
+- **SOLID:** conjunto de princípios de programação orientada a objetos que visam facilitar a manutenção, extensibilidade e escalabilidade do código
+- **Design Patterns:** soluções reutilizáveis para problemas comuns de design de software específico para o gerenciamento de variáveis de ambiente, como o **padrão Singleton** ou o padrão **Factory Method**
+- **Role Based Access Control (RBAC):** modelo de controle de acesso baseado em funções que ajuda a definir e gerenciar as permissões de usuários em uma aplicação
+
 ## Pré-requisitos
 
 - **Node.js** instalado na máquina com versão mínima 18.0.0 ou superior
