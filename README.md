@@ -1,7 +1,6 @@
 # Node.js API Rest
 
->Olá, visitante.
-Existe outro projeto mais robusto e detalhado. Acesse-o <a href="https://github.com/T0mAlexander/Nodejs-Basics/tree/project-03">clicando aqui</a>
+> Olá visitante, existem outros 2 projetos nas branches [`project-01`](https://github.com/T0mAlexander/Nodejs-Basics/tree/project-01) e [`project-03`](https://github.com/T0mAlexander/Nodejs-Basics/tree/project-03)
 
 ## Funcionalidades
 
