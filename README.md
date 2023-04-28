@@ -195,7 +195,7 @@ Este projeto utiliza o PostgreSQL. A URL de conexão é definida por uma variáv
   > - **Requisito:** token de acesso da rota `/users`
   > - **Observação:** alguns testadores de API podem falhar, então pode ser que necessite digitar o token no Cookie dentro do cabeçalho da requisição (Headers)
 
-    ```json
+    ```javascript
       //Cabeçalho (Headers)
 
       Cookie: refreshToken=<token>
@@ -219,7 +219,7 @@ Este projeto utiliza o PostgreSQL. A URL de conexão é definida por uma variáv
 
     **Obs:** esta rota apenas retorna informações. Não é necessário enviar um corpo da requisição.
 
-    ```json
+    ```javascript
     Authorizariton: Bearear <token>
     ```
 
@@ -243,7 +243,7 @@ Essas rotas utilizam os seguintes hooks:
 
     >**Obs:** Para interagir com esta rota, execute o comando `npx prisma studio`. Na tabela `User`, escolha um usuário criado por você e procure a coluna `role` e clique 2x para alterar o valor de `MEMBER` para `ADMIN`. Feito isso, faça autenticação deste mesmo usuário na rota `/sessions`, e faça os passos abaixo
 
-    ```json
+    ```javascript
     // Cabeçalho
 
     Authentication: Bearer <token-ADMIN>
@@ -268,13 +268,13 @@ Essas rotas utilizam os seguintes hooks:
   <details>
     <summary>Cabeçalho e parâmetro da busca</summary>
 
-    ```json
+    ```javascript
     // Parâmetro de busca (query)
 
     q: <nome da academia> // obrigatório, acrônimo para "query" ("busca" em inglês)
     ```
 
-    ```json
+    ```javascript
     // Cabeçalho (Headers)
 
     Authorization: Bearer <token>
@@ -291,14 +291,14 @@ Essas rotas utilizam os seguintes hooks:
 
     > **Obs:** a latitude e longitude inserida será a sua localização fictícia para verificar quais academias estão dentro de 10 km
 
-    ```json
+    ```javascript
     // Parâmetro de busca (query)
 
     latitude: <valor> // obrigatório, valor numérico
     longitude: <valor> // obrigatório, valor numérico
     ```
 
-    ```json
+    ```javascript
     // Cabeçalho (Headers)
 
     Authorization: Bearer <token>
@@ -317,7 +317,7 @@ Essas rotas utilizam os seguintes hooks:
 
     > **Lembre-se:** a distância máxima para check-in é até 250 metros
 
-    ```json
+    ```javascript
     // Cabeçalho (Headers)
 
     Authorization: Bearer <token>
@@ -341,7 +341,7 @@ Essas rotas utilizam os seguintes hooks:
 
     **Lembrete:** check-ins expiram em 20 minutos após sua emissão
 
-    ```json
+    ```javascript
     Authorization: Bearer <token-ADMIN>
     ```
 
@@ -352,7 +352,7 @@ Essas rotas utilizam os seguintes hooks:
   <details>
     <summary>Cabeçalho da requisição</summary> <br>
 
-    ```json
+    ```javascript
     Authorization: Bearer <token>
     ```
 
@@ -363,7 +363,7 @@ Essas rotas utilizam os seguintes hooks:
   <details>
     <summary>Cabeçalho da requisição</summary> <br>
 
-    ```json
+    ```javascript
     Authorization: Bearer <token>
     ```
 
