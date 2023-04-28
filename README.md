@@ -1,4 +1,6 @@
-# Projeto Node.js
+# Projeto básico de Node.js
+
+> Olá visitante, existem outros 2 projetos maiores na branch [`project-02`](https://github.com/T0mAlexander/Nodejs-Basics/tree/project-02) e [`project-03`](https://github.com/T0mAlexander/Nodejs-Basics/tree/project-03)
 
 Este projeto consiste em uma aplicação Node.js para gerenciamento de usuários utilizando uma base de dados no formato JSON. A aplicação conta com rotas para consultar, adicionar, atualizar e deletar usuários.
 
