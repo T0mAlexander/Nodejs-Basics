@@ -21,7 +21,7 @@ Esta aplicação possui similaridades com lógicas sistêmicas do Gympass
 
 - [x] Impedir cadastro de endereços de email duplicados
 - [x] Impedir 2 check-in no mesmo dia
-- [x] Permitir check-in numa distância de até 250 metros da academia
+- [x] Permitir check-in numa distância máxima de até 250 metros da academia
 - [x] Estipular tempo máximo de 10 minutos para validação do check-in
 - [x] Check-in apenas será validado por administradores
 - [x] Academias serão cadastradas apenas por administradores
