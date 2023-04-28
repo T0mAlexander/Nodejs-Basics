@@ -34,7 +34,7 @@ export class CheckInUseCase {
       longitude: gym.longitude.toNumber()
     })
 
-    const MaxDistanceInKm = 0.1
+    const MaxDistanceInKm = 0.25 //* 250 meters
 
     if (distance > MaxDistanceInKm) {
       throw new MaxDistanceError()
