@@ -148,8 +148,6 @@ Este projeto utiliza o PostgreSQL. A URL de conexão é definida por uma variáv
 - 🧠 **Lembre-se:** o endereço base é **`http://localhost:3333`** e para fazer requisições, envie sempre no formato **JSON**
 - 💡 **Dica de ouro**: caso queira ver a interface do banco de dados, digite no terminal `npx prisma studio`
 
-<br>
-
 ### Rotas de Usuário
 
 - `POST /users`: cria um novo usuário na base de dados
