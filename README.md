@@ -3,7 +3,7 @@
 > Olá visitante, existem outros 2 projetos nas branches [`project-01`](https://github.com/T0mAlexander/Nodejs-Basics/tree/project-01) e [`project-02`](https://github.com/T0mAlexander/Nodejs-Basics/tree/project-02)
 
 >### Descrição
->Este é um projeto de API Node.js com o padrão SOLID e Design Patterns.
+>Este é um projeto de API Rest usando Node.js com o padrão SOLID e Design Patterns.
 A aplicação tem funcionalidades como cadastros, autenticações, consultas no banco de dados, geolocalização, registro de presença, validação por token. <br>
 >O projeto requer [**Node.js**](https://nodejs.org/en/download) e [**Docker**](https://docs.docker.com/get-docker/) instalados, e pode ser clonado e executado localmente seguindo as instruções nesta documentação.
 
