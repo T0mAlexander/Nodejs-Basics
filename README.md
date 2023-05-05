@@ -74,7 +74,7 @@ A aplicação tem funcionalidades como cadastros, autenticações, consultas no 
 1. Clone o repositório para a sua máquina local:
 
 ```bash
-gh repo clone -b project-03 T0mAlexander/Nodejs-Basics
+git clone -b project-03 T0mAlexander/Nodejs-Basics
 ```
 
 2. Acesse a pasta do repositório
